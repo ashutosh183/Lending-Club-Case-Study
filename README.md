@@ -32,6 +32,8 @@
 - Python
 - Numpy
 - Pandas
+- Matplot
+- Seaborn
 
 ## Tools
 - Jupyter Notebook
